@@ -1,2 +1,2 @@
-# hesap-makinesi
-- Arşiveler gezerken ilk yaptığım proje
+# HESAP MAKINESI 
+- Arşiveler gezerken bulduğum , ilk yaptığım proje
