@@ -1,2 +1,2 @@
 # hesap-makinesi
-kendi geliştirdim bastit bir proje
+- Arşiveler gezerken ilk yaptığım proje
